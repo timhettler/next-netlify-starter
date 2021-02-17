@@ -86,7 +86,7 @@ export default function Home({ posts }) {
         }
         .hero {
           display: flex;
-          height: 20vh;
+          height: 33vh;
           text-align: center;
           align-items: center;
           position: relative;
